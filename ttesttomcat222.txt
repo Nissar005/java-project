@@ -1,2 +1,2 @@
-Testing webhook for tomcat server 2222
-modified 1
+testing versions of "myapp.war"
+myapp.war2
